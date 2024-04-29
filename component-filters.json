@@ -54,23 +54,5 @@
       "components": [
         "slide"
       ]
-    },
-      {
-      "id": "section",
-      "components": [
-        "text",
-        "image",
-        "button",
-        "title",
-        "hero",
-        "columns",
-        "carousel",
-        "accordion",
-        "teaser",
-        "featured-article",
-        "blockquote",
-        "article-details",
-        "content-fragment"
-      ]
     }
   ]
